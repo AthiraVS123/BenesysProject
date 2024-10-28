@@ -1,0 +1,26 @@
+.navbar{
+    background-color: #ffff;
+    /* margin: 30px 0px 77px 50px; */
+    display: flex;
+    flex-direction: column;
+    /* margin: 0px; */
+    /* justify-content: center; */
+    align-items: flex-start;
+    padding: 32px 22px;
+}
+.logo{
+    /* width: 154px;
+    height: 52px; */
+    /* margin: 0px 0px 0px 20px; */
+    background: transparent  0% 0% no-repeat padding-box;
+    opacity: 1;
+
+}
+.login-header{
+    position: relative;
+}
+.login-header img{
+    position: absolute;
+    top: 30px;
+    left: 50px;
+}

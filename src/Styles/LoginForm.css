@@ -1,0 +1,144 @@
+.form-container{
+    background-color: rgb(255, 255, 255);
+    height: 45vh;
+    width: 60%;
+    opacity: 1;
+    padding:30px 30px 0px;
+    /* border-style: groove; */
+    padding:10px ;
+}
+#sign{
+    /* top: 201px;
+    left: 74px; */
+    /* width: 186px;
+    height: 28px; */
+    text-align: left;
+    font-size: x-large;
+    letter-spacing: 0px;
+    color: #212B36;
+    opacity: 1;
+    font-family: 'PublicScans', sans-serif;
+}
+.email{
+    /* top: 313px;
+    left: 746px;
+    /* width: 430px; */
+    height: 10px; 
+    border: 1px solid #637381;
+    border-radius: 8px;
+    opacity: 1;
+    width: 30vw;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+#para{
+    /* margin-bottom: 10px; */
+    color: #212B36;
+    /* margin: 0; */
+
+}
+.form-header{
+    /* display: flex;
+    flex-direction: column; */
+    text-align: left;
+}
+.form-body1{
+    margin-top: 30px;
+    padding: 10px;
+
+}
+.form-body2{
+    margin-top: 50px;
+    padding: 10px;
+}
+.password{
+
+    height: 8px; 
+    border: 1px solid #637381;
+    border-radius: 8px;
+    opacity: 1;
+    width:30vw;
+    margin: 10px;
+    padding-top:10px;
+    cursor: pointer;
+    
+    /* align-items: center; */
+}
+.form-footer
+{
+    background-color: rgb(255, 255, 255);
+    width: 96%;
+    height: 10vh;
+    padding: 10px;
+    margin-top: 30px;
+}
+#outlined-basic{
+    width:30vw;
+    height: 2vh;
+    cursor: pointer;
+}
+.checkbox{
+    background-color: #D9DEE3;
+    width: 6px;
+    height: 5px;
+
+}
+#rem{
+    color: #D9DEE3;
+    margin: 0;
+    font-size: 14px;
+    text-align: left;
+    text-align: left;
+    font: normal normal normal 14px/22px Public Sans;
+    letter-spacing: 0px;
+    color: #637381;
+    opacity: 1;  
+    
+}
+
+.footer-header{
+    display: flex;
+    flex-direction:row ;
+    gap: 5px;   
+}
+
+.form-head{
+    display: flex;
+    flex-direction:row ;
+    justify-content: space-between;
+    margin: 10px 0px 5px 0px;
+}
+
+.forgotp{
+    text-align: left;
+    width: 30%;
+    float: right;
+    cursor: pointer;
+   
+}
+#forgot{
+    font: normal normal 600 14px/22px Public Sans;
+    letter-spacing: 0px;
+    color: #054832;
+    opacity: 1;
+    margin:0;
+}
+.login-but{
+    /* width: 95%; */
+    height: 5vh;
+    padding: 0px 0px 0px 0px;
+    
+}
+.login{
+    /* width:100%; */
+    height: 5vh;
+    background: #054832 0% 0% no-repeat padding-box;
+    box-shadow: 0px 8px 16px #05483226;
+    border-radius: 8px;
+    opacity: 1;
+    color: white;
+    cursor: pointer;
+}
+@media (max-width:768px){
+     
+}
